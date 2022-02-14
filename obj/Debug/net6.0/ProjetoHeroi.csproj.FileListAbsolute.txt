@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\Programção\Aula C#\bin\Debug\net6.0\ProjetoHeroi.exe
+C:\Users\Fellipe\Documents\Programção\Aula C#\bin\Debug\net6.0\ProjetoHeroi.deps.json
+C:\Users\Fellipe\Documents\Programção\Aula C#\bin\Debug\net6.0\ProjetoHeroi.runtimeconfig.json
+C:\Users\Fellipe\Documents\Programção\Aula C#\bin\Debug\net6.0\ProjetoHeroi.dll
+C:\Users\Fellipe\Documents\Programção\Aula C#\bin\Debug\net6.0\ref\ProjetoHeroi.dll
+C:\Users\Fellipe\Documents\Programção\Aula C#\bin\Debug\net6.0\ProjetoHeroi.pdb
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.dll
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ref\ProjetoHeroi.dll
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.pdb
+C:\Users\Fellipe\Documents\Programção\Aula C#\obj\Debug\net6.0\ProjetoHeroi.genruntimeconfig.cache
