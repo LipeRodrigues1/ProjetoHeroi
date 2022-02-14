@@ -9,7 +9,7 @@ namespace ProjetoHeroi
         {
             Hero hero = new Hero("Lupus", 50, "Gunslinger", "SS");
             Hero Ninja = new Hero("Lass", 49, "Shinobi", "S");
-            Hero Fighter = new Hero("Jin", 85, "Illuminated","SSS" );
+            Hero Fighter = new Hero("Jin", 85, "Illuminated", "SSS");
             Hero Swordsman = new Hero("sieghart", 68, "Avatar", "S+");
 
             Console.WriteLine(hero);
